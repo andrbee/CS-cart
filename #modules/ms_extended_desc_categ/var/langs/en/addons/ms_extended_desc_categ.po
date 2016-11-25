@@ -1,0 +1,22 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::ms_extended_desc_categ"
+msgid "ms_extended_desc_categ"
+msgstr "[MakeShop.pro] Extended description of category"
+
+msgctxt "Addons::description::ms_extended_desc_categ"
+msgid "Extended description of category(ms_extended_desc_categ)"
+msgstr "Extended description of category. Developed by <a target=\"_blank\" href=\"http://MakeShop.pro/\">MakeShop.pro</a>"
+
+msgctxt "Languages::name::extended_description_categ"
+msgid "Extended description of category(extended_description_categ)"
+msgstr "Extended description of category"
+
+msgctxt "Languages::name::title_ext_desc_categ"
+msgid "title_ext_desc_categ"
+msgstr "Extended description"
+

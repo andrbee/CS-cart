@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::ms_extended_desc"
+msgid "ms_extended_desc"
+msgstr "[MakeShop.pro] Extended description of brand"
+
+msgctxt "Addons::description::ms_extended_desc"
+msgid "Extended description of brand(ms_extended_desc)"
+msgstr "Extended description of brand. Developed by <a target=\"_blank\" href=\"http://MakeShop.pro/\">MakeShop.pro</a>"
+
+msgctxt "Languages::name::extended_description_brend"
+msgid "Extended description of brand(extended_description_brend)"
+msgstr "Extended description of brand"
+
+msgctxt "Languages::name::image_ext_desc_brend"
+msgid "Image of extended description of brand(image_ext_desc_brend)"
+msgstr "Image of extended description of brand"
